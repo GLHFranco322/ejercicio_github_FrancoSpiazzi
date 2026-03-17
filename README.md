@@ -1,1 +1,3 @@
 # ejercicio_github_FrancoSpiazzi
+franco spiazzi
+ejercicio git
